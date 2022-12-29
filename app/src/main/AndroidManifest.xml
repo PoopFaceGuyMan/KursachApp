@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.KursachApp">
+
+    <!-- defines a custom permission -->
+    <permission android:name="${applicationId}.permission.PRIVATE"
+        android:protectionLevel="signature" />
+    <!--
+    <permission android:name="com.KursachApp.free.permission.READ_PROVIDER"
+        android:protectionLevel="signature" />
+    -->
+    <!-- declares that the application uses the below permissions -->
+    <uses-permission android:name="${applicationId}.permission.PRIVATE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <!--
+    <uses-permission android:name="com.KursachApp.free.permission.READ_PROVIDER" />
+    -->
+
+    <application
+        android:name="com.KursachApp.WorkoutApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_foreground"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_foreground"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.WorkoutApp.New"
+        android:fullBackupContent="@xml/backup_rules">
+        <receiver
+            android:name="com.KursachApp.ui.workout.NotificationReceiver"
+            android:permission="${applicationId}.permission.PRIVATE"
+            android:exported="false">
+            <intent-filter android:priority="-999">
+                <action android:name="${applicationId}.SHOW_NOTIFICATION"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.KursachApp.ui.workout.ForegroundService"
+            android:exported="false"/>
+    </application>
+
+</manifest>

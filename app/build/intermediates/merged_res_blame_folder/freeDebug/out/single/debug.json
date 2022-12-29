@@ -1,0 +1,558 @@
+[
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_keyboard_arrow_right_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_keyboard_arrow_right_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_fragment_exercise_details.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_exercise_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_fireman_strongman.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_fireman_strongman.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\menu_fragment_workout_create.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\menu\\fragment_workout_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_stopwatch_button_bar_0.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\stopwatch_button_bar_0.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_check_box_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_check_box_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_set_item_checkable.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\set_item_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_set.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\set.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_fragment_workout_create.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_workout_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_reminder_list_item.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\reminder_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_timer_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_timer_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\font_hind_siliguri_semi_bold.ttf.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\font\\hind_siliguri_semi_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_fragment_exercise_create.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_exercise_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_exercise.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_tab_indicator_default.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\tab_indicator_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_notification_add_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_notification_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\menu_fragment_exercise_details.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\menu\\fragment_exercise_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_arrow_forward_30.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_forward_30.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\menu_fragment_workout_session.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\menu\\fragment_workout_session.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_stretch_svgrepo_com__1_.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_stretch_svgrepo_com__1_.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_exercise_card_clickable.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\exercise_card_clickable.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_exercise_card.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\exercise_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\font_hind_siliguri_regular.ttf.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\font\\hind_siliguri_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\font_manrope_regular.ttf.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\font\\manrope_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_library_add_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_library_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_stopwatch_button_bar_2.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\stopwatch_button_bar_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_timer_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_timer_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_progress_item_alt.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\progress_item_alt.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\menu_fragment_workout_details.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\menu\\fragment_workout_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_done_outline_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_done_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_set_item.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\set_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\font_hind_siliguri_medium.ttf.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\font\\hind_siliguri_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_edit_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_test_exercise_card.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\test_exercise_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_fragment_workout_session.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_workout_session.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\menu_fragment_exercise_create.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\menu\\fragment_exercise_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_man_lifting_barbell.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_man_lifting_barbell.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_side_nav_bar_alt.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\side_nav_bar_alt.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_barbell_gold.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_barbell_gold.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_show_chart_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_show_chart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_delete_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_fragment_progress_details.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_progress_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\font_nunito_sans_light.ttf.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\font\\nunito_sans_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_fragment_workout_list.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_workout_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_fragment_workout_stopwatch.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_workout_stopwatch.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\font_manrope_extra_light.ttf.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\font\\manrope_extra_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_numbers_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_numbers_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_button_bar.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\button_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\animator_flip_in_single_view.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\animator\\flip_in_single_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\menu_fragment_workout_list.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\menu\\fragment_workout_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_workout.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\workout.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_history_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_history_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\free\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_timeline_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_timeline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_event_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_event_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_bar_chart_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_bar_chart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_directions_run_30.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_directions_run_30.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_fitness_center_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_fitness_center_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\menu_fragment_exercise_edit.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\menu\\fragment_exercise_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\font_hind_siliguri_light.ttf.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\font\\hind_siliguri_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_directions_run_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_directions_run_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_barbell_blue.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_barbell_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_fragment_exercise_edit.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_exercise_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_x_bar.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_x_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_fragment_workout_overview.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_workout_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_fragment_progress.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_tab_selector.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_exercise_card_actionable.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\exercise_card_actionable.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\font_manrope_semi_bold.ttf.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\font\\manrope_semi_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_action_bar.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\action_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_order_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_order_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_workout_card.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\workout_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_dumbell_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_dumbell_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_fragment_workout_details.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_workout_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_workout_details.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\workout_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_progress_item.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\progress_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_close_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_calendar_today_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_calendar_today_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\font_manrope_medium.ttf.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\font\\manrope_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\animator_flip_out_single_view.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\animator\\flip_out_single_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_gradient_line.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\gradient_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_filter_list_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_filter_list_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\font_nunito_sans_extra_light.ttf.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\font\\nunito_sans_extra_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\font_manrope_extra_bold.ttf.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\font\\manrope_extra_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_incomplete_circle_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_incomplete_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_area_chart_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_area_chart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_check_box_outline_blank_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_check_box_outline_blank_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\free\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_fragment_exercise_import.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_exercise_import.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_rounded_shape.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\rounded_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_fragment_workout_details_final.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_workout_details_final.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_add_box_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_add_box_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\font_manrope_bold.ttf.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\font\\manrope_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\menu_fragment_progress.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\menu\\fragment_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_title_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_title_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_round_button.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_all_inclusive_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_all_inclusive_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\animator_flip_in.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\animator\\flip_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_fragment_workout_session_test.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_workout_session_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_stopwatch_button_bar_1.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\stopwatch_button_bar_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\font_manrope_light.ttf.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\font\\manrope_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_fragment_view_pager.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_view_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_access_alarm_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_access_alarm_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_add_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_tab_indicator_selected.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\tab_indicator_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_favorite_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_favorite_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_fragment_exercise_list.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_exercise_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_check_mark.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\check_mark.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_workout_exercise.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\workout_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_check_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_check_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_keyboard_arrow_left_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_keyboard_arrow_left_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_action_bar_details.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\action_bar_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_baseline_access_time_24.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_baseline_access_time_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\animator_flip_out.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\animator\\flip_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\font_hind_siliguri_bold.ttf.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\font\\hind_siliguri_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_ic_user_name_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable\\ic_user_name_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_progress_item_card.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\progress_item_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout_progress_item_card_alt.xml.flat",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\progress_item_card_alt.xml"
+    }
+]

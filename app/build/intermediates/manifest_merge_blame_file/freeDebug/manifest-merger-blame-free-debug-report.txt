@@ -1,0 +1,444 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.Kurs.free.debug"
+4    android:versionCode="1"
+5    android:versionName="1.0-free" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="30" />
+10
+11    <permission
+11-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:5:5-6:47
+12        android:name="com.KursachApp.free.permission.READ_PROVIDER"
+12-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:5:17-76
+13        android:protectionLevel="signature" />
+13-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:6:9-44
+14
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:7:5-67
+15-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:7:22-64
+16
+17    <!-- defines a custom permission -->
+18    <permission
+19        android:name="com.Kurs.free.debug.permission.PRIVATE"
+20        android:protectionLevel="signature" />
+21    <!--
+22    <permission android:name="com.KursachApp.free.permission.READ_PROVIDER"
+23        android:protectionLevel="signature" />
+24    -->
+25    <!-- declares that the application uses the below permissions -->
+26    <uses-permission android:name="com.Kurs.free.debug.permission.PRIVATE" />
+27    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+27-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\main\AndroidManifest.xml:15:5-77
+27-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\main\AndroidManifest.xml:15:22-74
+28    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+28-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:24:5-79
+28-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:24:22-76
+29    <uses-permission android:name="com.google.android.gms.permission.AD_ID" /> <!-- Android package visibility setting -->
+29-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:25:5-79
+29-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:25:22-76
+30    <queries>
+30-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:28:5-44:15
+31
+32        <!-- For browser content -->
+33        <intent>
+33-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:31:9-37:18
+34            <action android:name="android.intent.action.VIEW" />
+34-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:17:17-68
+34-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:17:25-66
+35
+36            <category android:name="android.intent.category.BROWSABLE" />
+36-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:19:17-77
+36-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:19:27-75
+37
+38            <data android:scheme="https" />
+38-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:20:17-24:23
+38-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:23:21-43
+39        </intent>
+40        <!-- End of browser content -->
+41        <!-- For CustomTabsService -->
+42        <intent>
+42-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:40:9-42:18
+43            <action android:name="android.support.customtabs.action.CustomTabsService" />
+43-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:41:13-90
+43-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:41:21-87
+44        </intent>
+45        <!-- End of CustomTabsService -->
+46    </queries>
+47
+48    <uses-permission android:name="android.permission.WAKE_LOCK" />
+48-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:25:5-68
+48-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:25:22-65
+49    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+49-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:27:5-81
+49-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:27:22-78
+50
+51    <application
+51-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\main\AndroidManifest.xml:20:5-39:19
+52        android:name="com.KursachApp.WorkoutFreeApplication"
+52-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\main\AndroidManifest.xml:21:9-57
+53        android:allowBackup="true"
+53-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\main\AndroidManifest.xml:22:9-35
+54        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+54-->[androidx.core:core:1.5.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\d33d7aa2b8160bd0fb2a56984e7ed346\core-1.5.0\AndroidManifest.xml:24:18-86
+55        android:debuggable="true"
+56        android:extractNativeLibs="false"
+57        android:fullBackupContent="@xml/backup_rules"
+57-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\main\AndroidManifest.xml:28:9-54
+58        android:icon="@mipmap/ic_launcher_foreground"
+58-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\main\AndroidManifest.xml:23:9-54
+59        android:label="@string/app_name"
+59-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\main\AndroidManifest.xml:24:9-41
+60        android:roundIcon="@mipmap/ic_launcher_foreground"
+60-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\main\AndroidManifest.xml:25:9-59
+61        android:supportsRtl="true"
+61-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\main\AndroidManifest.xml:26:9-35
+62        android:testOnly="true"
+63        android:theme="@style/Theme.WorkoutApp.New" >
+63-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\main\AndroidManifest.xml:27:9-52
+64        <activity
+64-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:12:9-35:20
+65            android:name="com.KursachApp.FreeMainActivity"
+65-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:13:13-45
+66            android:label="@string/app_name" >
+66-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:14:13-45
+67            <intent-filter android:autoVerify="true" >
+67-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:16:13-30:29
+67-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:16:28-53
+68                <action android:name="android.intent.action.VIEW" />
+68-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:17:17-68
+68-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:17:25-66
+69
+70                <category android:name="android.intent.category.DEFAULT" />
+70-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:18:17-75
+70-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:18:27-73
+71                <category android:name="android.intent.category.BROWSABLE" />
+71-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:19:17-77
+71-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:19:27-75
+72
+73                <data
+73-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:20:17-24:23
+74                    android:host="properbackstack.com"
+74-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:21:21-55
+75                    android:pathPrefix="/level1"
+75-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:22:21-49
+76                    android:scheme="https" />
+76-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:23:21-43
+77                <data
+77-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:20:17-24:23
+78                    android:host="properbackstack.com"
+78-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:21:21-55
+79                    android:pathPrefix="/level1/level2"
+79-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:22:21-49
+80                    android:scheme="https" />
+80-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:23:21-43
+81            </intent-filter>
+82            <intent-filter>
+82-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:31:13-34:29
+83                <action android:name="android.intent.action.MAIN" />
+83-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:32:17-69
+83-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:32:25-66
+84
+85                <category android:name="android.intent.category.LAUNCHER" />
+85-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:33:17-77
+85-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:33:27-74
+86            </intent-filter>
+87            <intent-filter>
+87-->[mobile_navigation] C:\Users\danil\.gradle\daemon\6.5\C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\main\res\navigation\mobile_navigation.xml:102:13-70
+88                <action android:name="android.intent.action.VIEW" />
+88-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:17:17-68
+88-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:17:25-66
+89
+90                <category android:name="android.intent.category.DEFAULT" />
+90-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:18:17-75
+90-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:18:27-73
+91                <category android:name="android.intent.category.BROWSABLE" />
+91-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:19:17-77
+91-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:19:27-75
+92
+93                <data android:scheme="https" />
+93-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:20:17-24:23
+93-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:23:21-43
+94                <data android:host="properbackstack.com" />
+94-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:20:17-24:23
+94-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:21:21-55
+95                <data android:path="/level1" />
+95-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:20:17-24:23
+95-->[mobile_navigation] C:\Users\danil\.gradle\daemon\6.5\C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\main\res\navigation\mobile_navigation.xml:102:13-70
+96            </intent-filter>
+97            <intent-filter>
+97-->[mobile_navigation] C:\Users\danil\.gradle\daemon\6.5\C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\main\res\navigation\mobile_navigation.xml:178:13-98
+98                <action android:name="android.intent.action.VIEW" />
+98-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:17:17-68
+98-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:17:25-66
+99
+100                <category android:name="android.intent.category.DEFAULT" />
+100-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:18:17-75
+100-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:18:27-73
+101                <category android:name="android.intent.category.BROWSABLE" />
+101-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:19:17-77
+101-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:19:27-75
+102
+103                <data android:scheme="https" />
+103-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:20:17-24:23
+103-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:23:21-43
+104                <data android:host="properbackstack.com" />
+104-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:20:17-24:23
+104-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:21:21-55
+105                <data android:pathPattern="/level2/.*/.*" />
+105-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:20:17-24:23
+105-->[mobile_navigation] C:\Users\danil\.gradle\daemon\6.5\C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\main\res\navigation\mobile_navigation.xml:178:13-98
+106            </intent-filter>
+107        </activity>
+108        <!-- Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713 -->
+109        <meta-data
+109-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:37:9-39:69
+110            android:name="com.google.android.gms.ads.APPLICATION_ID"
+110-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:38:13-69
+111            android:value="ca-app-pub-3940256099942544~3347511713" />
+111-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:39:13-67
+112
+113        <provider
+113-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:40:9-47:15
+114            android:name="com.KursachApp.provider.MyContentProvider"
+114-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:42:13-55
+115            android:authorities="com.KursachApp.free.provider"
+115-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:41:13-63
+116            android:enabled="true"
+116-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:44:13-35
+117            android:exported="true"
+117-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:45:13-36
+118            android:multiprocess="true"
+118-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:46:13-40
+119            android:readPermission="com.KursachApp.free.permission.READ_PROVIDER" />
+119-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\free\AndroidManifest.xml:43:13-82
+120
+121        <receiver
+122            android:name="com.KursachApp.ui.workout.NotificationReceiver"
+123            android:exported="false"
+124            android:permission="com.Kurs.free.debug.permission.PRIVATE" >
+125            <intent-filter android:priority="-999" >
+126                <action android:name="com.Kurs.free.debug.SHOW_NOTIFICATION" />
+127            </intent-filter>
+128        </receiver>
+129
+130        <service
+130-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\main\AndroidManifest.xml:37:9-38:39
+131            android:name="com.KursachApp.ui.workout.ForegroundService"
+131-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\main\AndroidManifest.xml:37:18-76
+132            android:exported="false" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+132-->C:\Users\danil\AndroidStudioProjects\Kursachapp\app\src\main\AndroidManifest.xml:38:13-37
+133        <activity
+133-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:49:9-53:64
+134            android:name="com.google.android.gms.ads.AdActivity"
+134-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:50:13-65
+135            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+135-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:51:13-122
+136            android:exported="false"
+136-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:52:13-37
+137            android:theme="@android:style/Theme.Translucent" />
+137-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:53:13-61
+138
+139        <provider
+139-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:55:9-59:39
+140            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+140-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:56:13-76
+141            android:authorities="com.Kurs.free.debug.mobileadsinitprovider"
+141-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:57:13-73
+142            android:exported="false"
+142-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:58:13-37
+143            android:initOrder="100" />
+143-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:59:13-36
+144
+145        <service
+145-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:61:9-64:40
+146            android:name="com.google.android.gms.ads.AdService"
+146-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:62:13-64
+147            android:enabled="true"
+147-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:63:13-35
+148            android:exported="false" />
+148-->[com.google.android.gms:play-services-ads-lite:20.4.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\9f3960dc19c6b8fe6bd6834a0c271d2a\jetified-play-services-ads-lite-20.4.0\AndroidManifest.xml:64:13-37
+149
+150        <provider
+150-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:30:9-36:35
+151            android:name="androidx.work.impl.WorkManagerInitializer"
+151-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:31:13-69
+152            android:authorities="com.Kurs.free.debug.workmanager-init"
+152-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:32:13-68
+153            android:directBootAware="false"
+153-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:33:13-44
+154            android:exported="false"
+154-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:34:13-37
+155            android:multiprocess="true" />
+155-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:35:13-40
+156
+157        <service
+157-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:38:9-43:35
+158            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+158-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:39:13-88
+159            android:directBootAware="false"
+159-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:40:13-44
+160            android:enabled="@bool/enable_system_alarm_service_default"
+160-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:41:13-72
+161            android:exported="false" />
+161-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:42:13-37
+162        <service
+162-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:44:9-50:35
+163            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+163-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:45:13-84
+164            android:directBootAware="false"
+164-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:46:13-44
+165            android:enabled="@bool/enable_system_job_service_default"
+165-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:47:13-70
+166            android:exported="true"
+166-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:48:13-36
+167            android:permission="android.permission.BIND_JOB_SERVICE" />
+167-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:49:13-69
+168
+169        <receiver
+169-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:52:9-57:35
+170            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+170-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:53:13-88
+171            android:directBootAware="false"
+171-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:54:13-44
+172            android:enabled="true"
+172-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:55:13-35
+173            android:exported="false" />
+173-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:56:13-37
+174        <receiver
+174-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:58:9-68:20
+175            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+175-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:59:13-106
+176            android:directBootAware="false"
+176-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:60:13-44
+177            android:enabled="false"
+177-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:61:13-36
+178            android:exported="false" >
+178-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:62:13-37
+179            <intent-filter>
+179-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:64:13-67:29
+180                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+180-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:65:17-87
+180-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:65:25-84
+181                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+181-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:66:17-90
+181-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:66:25-87
+182            </intent-filter>
+183        </receiver>
+184        <receiver
+184-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:69:9-79:20
+185            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+185-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:70:13-104
+186            android:directBootAware="false"
+186-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:71:13-44
+187            android:enabled="false"
+187-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:72:13-36
+188            android:exported="false" >
+188-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:73:13-37
+189            <intent-filter>
+189-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:75:13-78:29
+190                <action android:name="android.intent.action.BATTERY_OKAY" />
+190-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:76:17-77
+190-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:76:25-74
+191                <action android:name="android.intent.action.BATTERY_LOW" />
+191-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:77:17-76
+191-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:77:25-73
+192            </intent-filter>
+193        </receiver>
+194        <receiver
+194-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:80:9-90:20
+195            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+195-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:81:13-104
+196            android:directBootAware="false"
+196-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:82:13-44
+197            android:enabled="false"
+197-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:83:13-36
+198            android:exported="false" >
+198-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:84:13-37
+199            <intent-filter>
+199-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:86:13-89:29
+200                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+200-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:87:17-83
+200-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:87:25-80
+201                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+201-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:88:17-82
+201-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:88:25-79
+202            </intent-filter>
+203        </receiver>
+204        <receiver
+204-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:91:9-100:20
+205            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+205-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:92:13-103
+206            android:directBootAware="false"
+206-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:93:13-44
+207            android:enabled="false"
+207-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:94:13-36
+208            android:exported="false" >
+208-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:95:13-37
+209            <intent-filter>
+209-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:97:13-99:29
+210                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+210-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:98:17-79
+210-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:98:25-76
+211            </intent-filter>
+212        </receiver>
+213        <receiver
+213-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:101:9-112:20
+214            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+214-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:102:13-88
+215            android:directBootAware="false"
+215-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:103:13-44
+216            android:enabled="false"
+216-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:104:13-36
+217            android:exported="false" >
+217-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:105:13-37
+218            <intent-filter>
+218-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:107:13-111:29
+219                <action android:name="android.intent.action.BOOT_COMPLETED" />
+219-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:108:17-79
+219-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:108:25-76
+220                <action android:name="android.intent.action.TIME_SET" />
+220-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:109:17-73
+220-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:109:25-70
+221                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+221-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:110:17-81
+221-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:110:25-78
+222            </intent-filter>
+223        </receiver>
+224        <receiver
+224-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:113:9-122:20
+225            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+225-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:114:13-99
+226            android:directBootAware="false"
+226-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:115:13-44
+227            android:enabled="@bool/enable_system_alarm_service_default"
+227-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:116:13-72
+228            android:exported="false" >
+228-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:117:13-37
+229            <intent-filter>
+229-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:119:13-121:29
+230                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+230-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:120:17-98
+230-->[androidx.work:work-runtime:2.1.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\a4662763aa2468d38a04548784b37c51\work-runtime-2.1.0\AndroidManifest.xml:120:25-95
+231            </intent-filter>
+232        </receiver>
+233
+234        <service
+234-->[androidx.room:room-runtime:2.4.0-alpha02] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\6fb98c1e18c62936a5e685b6326337d8\room-runtime-2.4.0-alpha02\AndroidManifest.xml:25:9-28:40
+235            android:name="androidx.room.MultiInstanceInvalidationService"
+235-->[androidx.room:room-runtime:2.4.0-alpha02] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\6fb98c1e18c62936a5e685b6326337d8\room-runtime-2.4.0-alpha02\AndroidManifest.xml:26:13-74
+236            android:directBootAware="true"
+236-->[androidx.room:room-runtime:2.4.0-alpha02] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\6fb98c1e18c62936a5e685b6326337d8\room-runtime-2.4.0-alpha02\AndroidManifest.xml:27:13-43
+237            android:exported="false" />
+237-->[androidx.room:room-runtime:2.4.0-alpha02] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\6fb98c1e18c62936a5e685b6326337d8\room-runtime-2.4.0-alpha02\AndroidManifest.xml:28:13-37
+238
+239        <meta-data
+239-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\925ccacc6497b665ff9b87a66bc036f0\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
+240            android:name="com.google.android.gms.version"
+240-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\925ccacc6497b665ff9b87a66bc036f0\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58
+241            android:value="@integer/google_play_services_version" />
+241-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\danil\.gradle\caches\transforms-2\files-2.1\925ccacc6497b665ff9b87a66bc036f0\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
+242    </application>
+243
+244</manifest>

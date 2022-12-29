@@ -1,0 +1,58 @@
+[
+  {
+    "name": "mobile_navigation",
+    "navigationXmlIds": [],
+    "deepLinks": [
+      {
+        "schemes": [
+          "https"
+        ],
+        "host": "properbackstack.com",
+        "port": -1,
+        "path": "/level1",
+        "sourceFilePosition": {
+          "mSourceFile": {
+            "mSourceFile": {
+              "path": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+            },
+            "mDescription": "mobile_navigation"
+          },
+          "mSourcePosition": {
+            "mStartLine": 101,
+            "mStartColumn": 12,
+            "mStartOffset": 3960,
+            "mEndLine": 101,
+            "mEndColumn": 69,
+            "mEndOffset": 4017
+          }
+        },
+        "isAutoVerify": false
+      },
+      {
+        "schemes": [
+          "https"
+        ],
+        "host": "properbackstack.com",
+        "port": -1,
+        "path": "/level2/.*/.*",
+        "sourceFilePosition": {
+          "mSourceFile": {
+            "mSourceFile": {
+              "path": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+            },
+            "mDescription": "mobile_navigation"
+          },
+          "mSourcePosition": {
+            "mStartLine": 177,
+            "mStartColumn": 12,
+            "mStartOffset": 7249,
+            "mEndLine": 177,
+            "mEndColumn": 97,
+            "mEndOffset": 7334
+          }
+        },
+        "isAutoVerify": false
+      }
+    ]
+  }
+]

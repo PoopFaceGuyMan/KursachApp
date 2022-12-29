@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\workout_card.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\workout_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\exercise_card_clickable.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\exercise_card_clickable.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\action_bar_details.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\action_bar_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\fragment_workout_details_final.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_workout_details_final.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\test_exercise_card.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\test_exercise_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\set_item_checkable.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\set_item_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\fragment_workout_create.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_workout_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\stopwatch_button_bar_0.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\stopwatch_button_bar_0.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\workout_exercise.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\workout_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\fragment_workout_details.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_workout_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\button_bar.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\button_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\progress_item_card.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\progress_item_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\free\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\set.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\set.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\fragment_view_pager.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_view_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\reminder_list_item.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\reminder_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\workout_details.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\workout_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\progress_item.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\progress_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\fragment_progress.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\fragment_exercise_create.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_exercise_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\fragment_progress_details.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_progress_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\progress_item_alt.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\progress_item_alt.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\fragment_workout_session.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_workout_session.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\fragment_exercise_list.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_exercise_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\exercise_card_actionable.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\exercise_card_actionable.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\fragment_workout_overview.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_workout_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\stopwatch_button_bar_2.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\stopwatch_button_bar_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\set_item.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\set_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\action_bar.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\action_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\workout.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\workout.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\fragment_exercise_import.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_exercise_import.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\fragment_workout_stopwatch.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_workout_stopwatch.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\fragment_workout_session_test.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_workout_session_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\free\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\exercise_card.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\exercise_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\progress_item_card_alt.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\progress_item_card_alt.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\fragment_exercise_edit.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_exercise_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\fragment_exercise_details.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_exercise_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\fragment_workout_list.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\fragment_workout_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\stopwatch_button_bar_1.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\stopwatch_button_bar_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\exercise.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\stripped.dir\\layout\\check_mark.xml",
+        "source": "C:\\Users\\danil\\AndroidStudioProjects\\Kursachapp\\app\\src\\main\\res\\layout\\check_mark.xml"
+    }
+]

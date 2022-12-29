@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/workout_navigation"
+    >
+
+
+
+    <fragment
+        android:id="@+id/nav_progress"
+        android:name="com.KursachApp.ui.progress.ProgressFragment"
+        android:label="@string/nav_progress"
+        tools:layout="@layout/fragment_progress" >
+        <action
+            android:id="@+id/action_nav_progress_to_nav_progress_details"
+            app:destination="@id/nav_progress_details" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_progress_details"
+        android:name="com.KursachApp.ui.progressdetails.ProgressDetailsFragment"
+        android:label="@string/nav_progress_details"
+        tools:layout="@layout/fragment_progress_details"
+        >
+        <argument
+            android:name="progressItem"
+            app:argType="com.KursachApp.model.ProgressItem" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_exercise_list"
+        android:name="com.KursachApp.ui.exerciselist.ExerciseListFragment"
+        android:label="@string/nav_exercise_list"
+        tools:layout="@layout/fragment_exercise_list">
+        <action
+            android:id="@+id/action_nav_exercise_list_to_nav_exercise_details"
+            app:destination="@id/nav_exercise_details" />
+        <action
+            android:id="@+id/action_nav_exercise_list_to_nav_exercise_create"
+            app:destination="@id/nav_exercise_create" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_exercise_details"
+        android:name="com.KursachApp.ui.exercisedetails.ExerciseDetailsFragment"
+        android:label="@string/nav_exercise_details"
+        tools:layout="@layout/fragment_exercise_details">
+        <argument
+            android:name="exerciseId"
+            app:argType="java.util.UUID"
+            app:nullable="false" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_exercise_create"
+        android:name="com.KursachApp.ui.exercisecreate.ExerciseCreateFragment"
+        android:label="@string/nav_exercise_create"
+        tools:layout="@layout/fragment_exercise_details">
+        <argument
+            android:name="workoutId"
+            app:argType="java.util.UUID"
+            app:nullable="true"
+            android:defaultValue="@null"
+            />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_exercise_import"
+        android:name="com.KursachApp.ui.exerciseimport.ExerciseImportFragment"
+        android:label="@string/nav_exercise_import"
+        tools:layout="@layout/fragment_exercise_import">
+        <argument
+            android:name="workoutId"
+            app:argType="java.util.UUID"
+            app:nullable="false" />
+    </fragment>
+
+    <navigation
+        android:id="@+id/workout_navigation"
+        app:startDestination="@id/nav_workout_list"
+        >
+
+        <fragment
+            android:id="@+id/nav_workout_list"
+            android:name="com.KursachApp.ui.workoutlist.WorkoutListFragment"
+            android:label="@string/nav_workout_list"
+            tools:layout="@layout/fragment_workout_list">
+            <action
+                android:id="@+id/action_nav_workout_list_to_nav_workout_details"
+                app:destination="@id/nav_workout_details" />
+            <action
+                android:id="@+id/action_nav_workout_list_to_nav_workout_details_final"
+                app:destination="@+id/nav_workout_details_final"/>
+            <action
+                android:id="@+id/action_nav_workout_list_to_nav_workout_create"
+                app:destination="@id/nav_workout_create" />
+            <action
+                android:id="@+id/action_nav_workout_list_to_nav_workout_view_pager"
+                app:destination="@id/nav_workout_view_pager" />
+            <deepLink app:uri="https://properbackstack.com/level1" />
+        </fragment>
+
+        <fragment
+            android:id="@+id/nav_workout_details"
+            android:name="com.KursachApp.ui.workoutdetails.WorkoutDetailsFragment"
+            android:label="@string/nav_workout_details"
+            tools:layout="@layout/fragment_workout_details">
+            <argument
+                android:name="workoutId"
+                app:argType="java.util.UUID"
+                app:nullable="false" />
+            <action
+                android:id="@+id/action_nav_workout_details_to_nav_exercise_import"
+                app:destination="@id/nav_exercise_import" />
+            <action
+                android:id="@+id/action_nav_workout_details_to_nav_exercise_create"
+                app:destination="@id/nav_exercise_create" />
+            <action
+                android:id="@+id/action_nav_workout_details_to_nav_exercise_details"
+                app:destination="@+id/nav_exercise_details" />
+        </fragment>
+
+        <fragment
+            android:id="@+id/nav_workout_details_final"
+            android:name="com.KursachApp.ui.workoutdetailsfinal.WorkoutDetailsFinalFragment"
+            android:label="@string/nav_workout_details"
+            tools:layout="@layout/fragment_workout_details_final"
+            >
+            <argument
+                android:name="workoutId"
+                app:argType="java.util.UUID"
+                app:nullable="true"
+                android:defaultValue="@null"
+                />
+        </fragment>
+
+        <fragment
+            android:id="@+id/nav_workout_create"
+            android:name="com.KursachApp.ui.workoutcreate.WorkoutCreateFragment"
+            android:label="@string/nav_workout_create"
+            tools:layout="@layout/fragment_workout_create">
+            <action
+                android:id="@+id/action_nav_workout_create_to_nav_exercise_import"
+                app:destination="@id/nav_exercise_import" />
+            <action
+                android:id="@+id/action_nav_workout_create_to_nav_exercise_create"
+                app:destination="@id/nav_exercise_create" />
+            <action
+                android:id="@+id/action_nav_workout_create_to_nav_exercise_details"
+                app:destination="@+id/nav_exercise_details" />
+        </fragment>
+
+        <fragment
+            android:id="@+id/nav_workout_view_pager"
+            android:name="com.KursachApp.ui.workout.HostFragment"
+            android:label="@string/nav_workout_view_pager"
+            tools:layout="@layout/fragment_view_pager">
+            <argument
+                android:name="workoutId"
+                app:argType="java.util.UUID"
+                app:nullable="false"
+                />
+            <argument
+                android:name="pendingIntent"
+                app:argType="boolean"
+                android:defaultValue="false"
+                />
+            <!--
+            <action
+                android:id="@+id/action_nav_view_pager_to_nav_workout_details"
+                app:destination="@+id/nav_workout_details" />
+            <action
+                android:id="@+id/action_nav_view_pager_to_nav_workout_details_final"
+                app:destination="@+id/nav_workout_details_final" />
+            -->
+            <deepLink app:uri="https://properbackstack.com/level2/{workoutId}/{pendingIntent}" />
+        </fragment>
+
+        <fragment
+            android:id="@+id/nav_workout_session"
+            android:name="com.KursachApp.ui.workout.session.SessionFragment"
+            android:label="@string/nav_workout_session"
+            tools:layout="@layout/fragment_workout_session">
+            <argument
+                android:name="workoutId"
+                app:argType="java.util.UUID"
+                app:nullable="false"
+                />
+            <argument
+                android:name="pendingIntent"
+                app:argType="boolean"
+                android:defaultValue="false"
+                />
+        </fragment>
+
+        <fragment
+            android:id="@+id/nav_workout_stopwatch"
+            android:name="com.KursachApp.ui.workout.stopwatch.StopwatchFragment"
+            android:label="@string/nav_workout_stopwatch"
+            tools:layout="@layout/fragment_workout_stopwatch">
+            <argument
+                android:name="workoutId"
+                app:argType="java.util.UUID"
+                app:nullable="false"
+                />
+            <argument
+                android:name="pendingIntent"
+                app:argType="boolean"
+                android:defaultValue="false"
+                />
+        </fragment>
+
+    </navigation>
+
+</navigation>

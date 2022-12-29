@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context=".ui.workoutcreate.WorkoutCreateFragment"
+    >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/button_bar"
+        android:padding="@dimen/fragment_padding"
+        >
+
+        <include
+            android:id="@+id/body"
+            layout="@layout/workout_details"
+            />
+
+    </ScrollView>
+
+    <include
+        android:id="@+id/button_bar"
+        layout="@layout/button_bar"
+        />
+
+</RelativeLayout>

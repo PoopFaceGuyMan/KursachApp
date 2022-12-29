@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:title="MenuTitle"
+    tools:ignore="HardcodedText"
+    >
+
+    <item
+        android:id="@+id/backward_arrow"
+        android:title="Back"
+        android:icon="@drawable/ic_baseline_keyboard_arrow_left_24"
+        app:iconTint="@color/white"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/forward_arrow"
+        android:title="Forward"
+        android:icon="@drawable/ic_baseline_keyboard_arrow_right_24"
+        app:iconTint="@color/white"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/range"
+        android:title="Range"
+        android:icon="@drawable/ic_baseline_filter_list_24"
+        app:showAsAction="ifRoom"
+        >
+        <menu>
+            <group
+                android:id="@+id/group_filter"
+                android:checkableBehavior="single"
+                >
+                <item
+                    android:id="@+id/by_month"
+                    android:title="За месяц"
+                    android:checked="true"
+                    app:iconTint="@color/black"
+                    tools:ignore="HardcodedText"
+                    />
+                <item
+                    android:id="@+id/by_year"
+                    android:title="За год"
+                    app:iconTint="@color/black"
+                    tools:ignore="HardcodedText"
+                    />
+                <item
+                    android:id="@+id/by_30_days"
+                    android:title="За 30 дней"
+                    app:iconTint="@color/black"
+                    tools:ignore="HardcodedText"
+                    />
+                <item
+                    android:id="@+id/by_60_days"
+                    android:title="За 60 дней"
+                    app:iconTint="@color/black"
+                    tools:ignore="HardcodedText"
+                    />
+                <item
+                    android:id="@+id/by_90_days"
+                    android:title="За 90 дней"
+                    app:iconTint="@color/black"
+                    tools:ignore="HardcodedText"
+                    />
+                <item
+                    android:id="@+id/by_180_days"
+                    android:title="За 180 дней"
+                    app:iconTint="@color/black"
+                    tools:ignore="HardcodedText"
+                    />
+                <item
+                    android:id="@+id/by_365_days"
+                    android:title="За 365 дней"
+                    app:iconTint="@color/black"
+                    tools:ignore="HardcodedText"
+                    />
+            </group>
+        </menu>
+    </item>
+
+</menu>
